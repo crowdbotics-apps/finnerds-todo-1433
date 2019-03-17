@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT finnerds_todo_1433.wsgi:application
